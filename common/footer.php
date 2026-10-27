@@ -1,3 +1,3 @@
 <footer>
-  <p>© 2026 My first experiment</p>
+  <p>© 2026 My first experience</p>
 </footer>

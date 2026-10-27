@@ -1,5 +1,5 @@
 <header>
-  <h2>My first experiment</h2>
+  <h2>My first experience</h2>
   <nav>
     <a href="index.php">Home</a>
     <a href="about.php">About</a>
